@@ -16,6 +16,8 @@ sidebar_order: 0
 
 * [Moving on Up - Switch to Hosted Sentry]({%- link _documentation/guides/migration/index.md -%})
 
+* [The Sentry General]({%- link _documentation/guides/the-sentry-general/index.md -%})
+
 ## Tutorials
 
 Step-by-step guides to getting started with error monitoring for your apps on:
